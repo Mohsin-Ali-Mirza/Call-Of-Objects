@@ -1,0 +1,33 @@
+					************************************************
+                                        *          Welcome To Our OOP PROJECT	       *
+					************************************************
+
+						*******************************
+						*	   GAME FILE          *
+						*******************************
+
+1.You Can Find The Andriod Verision In The "Andriod Apk". Copy The File To Your Phone, Install The Game And ENJOY :D
+
+2.You Can Find The Windows Version in The "Windows Game Folder". Run Call Of Objects File To Play The Game
+
+
+						*******************************
+						*    Source Code And Details  *
+						*******************************
+
+1. The Souce Code And Project File Is In The "Project Files" Folder. You Will Need Unity To Run The Project.
+2.The Presentation Includes The Subtle Details That You Might Have Missed Playing The Game Explaining All The Game Mechanics And OOP 
+  Principles Used While Building The Game
+3.Interaction Diagram Shows How Different Objects And Classes Are Interacting With One Another In The System
+4.Class Diagram Shows The Inheritance That We Applied In Our Game
+
+						*******************************
+						*       GAMEPLAY VIDEO        *
+						*******************************
+
+4.Gameplay Video Includes A Short Walkthrough Of Our Game
+
+
+         *********************************************************************************************************
+         *     ®MADE BY AHMAD ALEEM_K200169        MOHSIN ALI MIRZA_K200353       MUHAMMAD FAHEEM KHAN_K201054   *
+         *********************************************************************************************************
